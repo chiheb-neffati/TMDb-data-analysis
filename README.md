@@ -5,5 +5,5 @@ There are three ways to see this project :
 * Opening the notebook here in github
 * Opening the notebook on your computer after downloading/cloning this repository
 * Opening the html file in case you don't have jupyter installed
-## Finaly ...
-If you have any questions regarding this project or if you have any advice for me to improve it please dont hesitate to caontact me or to make a pull request.
+## Finally ...
+If you have any questions regarding this project or if you have any advice for me to improve it please dont hesitate to contact me or to make a pull request.
